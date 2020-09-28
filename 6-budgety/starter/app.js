@@ -275,7 +275,6 @@ var UIController = (function() {
             })
 
             document.querySelector(DOMstrings.inputBtn).classList.toggle('red');
-
         }
 
     }
